@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Education Background"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,6 @@ redirect_from:
 ---
 {% include base_path %}
 {% assign seo_title = site.name %}
-## Education Background
 **Ph.D. DSA**, 2022.02 - present <br/> 
 The Hong Kong University of Science and Technology (Guangzhou)
   * **Research interests**: Adversarial machine learning
