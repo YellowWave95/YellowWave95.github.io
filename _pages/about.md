@@ -12,19 +12,19 @@ redirect_from:
 ## Education Background
 **Ph.D. DSA**, 2022.02 - present <br/> 
 The Hong Kong University of Science and Technology (Guangzhou)
+  * **Supervisors**: Prof. Wei Wang & Prof. Minhao Cheng
   * **Research interests**: Adversarial machine learning
 
 **MEng CS**, 2017.09 – 2020.06 <br/> 
 Shenzhen University
-  * **Major courses**: Machine Learning, Object-Oriented Technology and Methods, Theory of Algorithms, Combinatorial Mathematics
-  * **Master’s thesis**: Defense Methods Against Adversarial Examples in Deep Learning
+  * **Supervisors**: Prof. Yi Wang & Prof. Feng Liu
 
 **BSci Biotechnology**, 2013.09 - 2017.07 <br/> 
 University of Electronic Science and Technology of China
 
 ## Publications
-1. **Bo Huang**, Zhiwei Ke, Yi Wang, Wei Wang, Linlin Shen, Feng Liu. Adversarial Defense by Diversified Simultaneous Training of Deep Ensembles. (**AAAI-2021**)
-2. **Bo Huang**, Yi Wang, and Wei Wang. Model-Agnostic Adversarial Detection by Random Perturbations. (**IJCAI-2019**)
+1. **Bo Huang**, Zhiwei Ke, Yi Wang, Wei Wang, Linlin Shen, Feng Liu. Adversarial Defense by Diversified Simultaneous Training of Deep Ensembles. (**AAAI'2021**)
+2. **Bo Huang**, Yi Wang, and Wei Wang. Model-Agnostic Adversarial Detection by Random Perturbations. (**IJCAI'2019**)
 3. Yi Wang and **Bo Huang**, Adversarial example detection method and apparatus, computing device, and non-volatile computer-readable storage medium, **United States Patent**，2020.07.27, **Patent No**. 10936973.
 
 ## Research Experience
@@ -55,9 +55,8 @@ University of Electronic Science and Technology of China
 * Outstanding Graduate
 
 ## Professional Skills
-* **English**: IELTS **7.0**, CET-6;
+* **English**: IELTS 7.0, CET-6;
 * **Programming Language**: Python, Matlab, C, HTML;
 * **OS&Platform**: Windows, Linux, Docker;
-* **Tools**: Pytorch, Keras, Tensorflow, Cleverhans;
 
 [![Page Views Count](https://badges.toozhao.com/badges/01GFX6CS5SF3HNS3SVCS5QHFZP/blue.svg)](https://badges.toozhao.com/stats/01GFX6CS5SF3HNS3SVCS5QHFZP "Get your own page views count badge on badges.toozhao.com")
