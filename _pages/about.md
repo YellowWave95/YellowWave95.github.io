@@ -28,7 +28,6 @@ University of Electronic Science and Technology of China
 3. Yi Wang and **Bo Huang**, Adversarial example detection method and apparatus, computing device, and non-volatile computer-readable storage medium, **United States Patent**，2020.07.27, **Patent No**. 10936973.
 
 ## Awards
-* The First Prize of Postgraduate Entrance Scholarship
 * Outstanding Graduate
 
 ## Professional Skills
