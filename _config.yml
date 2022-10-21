@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bo Huang / Home"
+title                    : "Bo Huang"
 title_separator          : "-"
 name                     : &name "Bo Huang"
 description              : &description "Ph.d cadidate, The Hong Kong University of Science and Technology (Guangzhou)"
