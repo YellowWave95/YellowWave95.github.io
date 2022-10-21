@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Education Background"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 {% assign seo_title = site.name %}
+## Education Background
 **Ph.D. DSA**, 2022.02 - present <br/> 
 The Hong Kong University of Science and Technology (Guangzhou)
   * **Research interests**: Adversarial machine learning
@@ -58,3 +58,5 @@ University of Electronic Science and Technology of China
 * **Programming Language**: Python, Matlab, C, HTML;
 * **OS&Platform**: Windows, Linux, Docker;
 * **Tools**: Pytorch, Keras, Tensorflow, Cleverhans;
+
+[![Page Views Count](https://badges.toozhao.com/badges/01GFX6CS5SF3HNS3SVCS5QHFZP/blue.svg)](https://badges.toozhao.com/stats/01GFX6CS5SF3HNS3SVCS5QHFZP "Get your own page views count badge on badges.toozhao.com")
