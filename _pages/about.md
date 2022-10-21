@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 {% include base_path %}
-{% assign seo_title = site.name %}
+
 ## Education Background
 **Ph.D. DSA**, 2022.02 - present <br/> 
 The Hong Kong University of Science and Technology (Guangzhou)
