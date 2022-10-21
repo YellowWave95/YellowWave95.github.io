@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : *description
   location         : "Guangzhou, China"
   employer         :
