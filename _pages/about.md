@@ -10,16 +10,16 @@ redirect_from:
 {% include base_path %}
 {% assign seo_title = site.name %}
 ## Education Background
-**Ph.D. DSA** <span style="float:right;">2022.02-present</span>  <br/> 
+**Ph.D. DSA**, 2022.02 - present <br/> 
 The Hong Kong University of Science and Technology (Guangzhou)
   * **Research interests**: Adversarial machine learning
 
-**MEng CS** <span style="float:right;">2017.09 – 2020.06</span>  <br/> 
+**MEng CS**, 2017.09 – 2020.06 <br/> 
 Shenzhen University
   * **Major courses**: Machine Learning, Object-Oriented Technology and Methods, Theory of Algorithms, Combinatorial Mathematics
   * **Master’s thesis**: Defense Methods Against Adversarial Examples in Deep Learning
 
-**BSci Biotechnology** <span style="float:right;">2013.09 - 2017.07</span>  <br/> 
+**BSci Biotechnology**, 2013.09 - 2017.07 <br/> 
 University of Electronic Science and Technology of China
 
 ## Publications
@@ -28,23 +28,23 @@ University of Electronic Science and Technology of China
 3. Yi Wang and **Bo Huang**, Adversarial example detection method and apparatus, computing device, and non-volatile computer-readable storage medium, **United States Patent**，2020.07.27, **Patent No**. 10936973.
 
 ## Research Experience
-**Certified robustness in Deep ensembles**
+**Certified robustness in Deep ensembles** <br/> 
 2020.11-present
   * We conduct research on how to approximately calculate the certified robustness of deep ensembles.
 
-**Adversarial defense by diversified simultaneous training of deep ensembles**
+**Adversarial defense by diversified simultaneous training of deep ensembles** <br/> 
 2019.08-2020.10
   * A novel strategy of diversified learning of high-level feature representations by ensemble networks was proposed;
   * Two regularization schemes in simultaneous training to facilitate the proposed diversified learning were developed;
   * Three measures of ensemble diversity were analyzed for adversarial defense in deep ensembles.
 
-**A comparative study of the robustness of single and ensemble model**
+**A comparative study of the robustness of single and ensemble model** <br/> 
 2019.03-2019.07
   * We investigated the robust performance of ensemble DNNs based on traditional ensemble methods;
   * Ensemble SVM was firstly found to be less robust than single SVM in the black-box attack scenario;
   * We proposed the concept of gradient correlation, which can be used to evaluate the adversarial robustness;
 
-**Model-Agnostic Adversarial Detection by Random Perturbations**
+**Model-Agnostic Adversarial Detection by Random Perturbations** <br/> 
 2018.07-2019.02
   * We proposed an effective adversarial detection method based on statistical analysis of model responses;
   * A theoretical analysis by relating the bound of random perturbations to the adversarial distortions was given;
